@@ -1,10 +1,12 @@
 # Movies DB App
 MoviesDB - The application fetches movie data using themoviedb.org API.
 
-# ScreenShot
-https://www.dropbox.com/s/st9aia2fxwdt3en/Screenshot_20170419-174906.png?dl=0
-https://www.dropbox.com/s/4hqsihaauftqwjc/Screenshot_20170419-174915.png?dl=0
-https://www.dropbox.com/s/k25ngf1oz5s5zdt/Screenshot_20170419-174924.png?dl=0
+# ScreenShot:
+
+https://raw.githubusercontent.com/sangrambankar/Movies-master/627e86ea9241be500f79e8aa4010614aa8c30239/Screenshot_20170419-174915.png
+
+https://raw.githubusercontent.com/sangrambankar/Movies-master/627e86ea9241be500f79e8aa4010614aa8c30239/Screenshot_20170419-174924.png
+
 ## Features:
 * Display popular movies using themoviedb.org API
 * Detailed View of each movie with trailers, rating , cast, etc
@@ -14,7 +16,7 @@ https://www.dropbox.com/s/k25ngf1oz5s5zdt/Screenshot_20170419-174924.png?dl=0
 * [RxJava](https://github.com/ReactiveX/RxAndroid) and [Retrofit](http://square.github.io/retrofit/) libraries to manage Rest Client
 * [ButterKnife](http://jakewharton.github.io/butterknife/) library to bind views and avoid boilerplate views code
 * [EventBus](https://github.com/greenrobot/EventBus) library to send data between components and makes code simpler
-* [Picasso](http://square.github.io/picasso/) and [Circle ImageView](https://github.com/hdodenhof/CircleImageView) libraries to manage images
+* [Picasso](http://square.github.io/picasso/) library to manage images
 
 
 ## Design pattern
