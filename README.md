@@ -3,9 +3,9 @@ MoviesDB - The application fetches movie data using themoviedb.org API.
 
 # ScreenShot:
 
-https://raw.githubusercontent.com/sangrambankar/Movies-master/627e86ea9241be500f79e8aa4010614aa8c30239/Screenshot_20170419-174915.png
+![Screen](https://raw.githubusercontent.com/sangrambankar/Movies-master/627e86ea9241be500f79e8aa4010614aa8c30239/Screenshot_20170419-174915.png)
 
-https://raw.githubusercontent.com/sangrambankar/Movies-master/627e86ea9241be500f79e8aa4010614aa8c30239/Screenshot_20170419-174924.png
+![Screen](https://raw.githubusercontent.com/sangrambankar/Movies-master/627e86ea9241be500f79e8aa4010614aa8c30239/Screenshot_20170419-174924.png)
 
 ## Features:
 * Display popular movies using themoviedb.org API
