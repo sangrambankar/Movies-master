@@ -5,13 +5,13 @@ MoviesDB - The application fetches movie data using themoviedb.org API.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sangrambankar/Movies-master/627e86ea9241be500f79e8aa4010614aa8c30239/Screenshot_20170419-174915.png" width="280">
-  <img src="https://raw.githubusercontent.com/sangrambankar/Movies-master/627e86ea9241be500f79e8aa4010614aa8c30239/Screenshot_20170419-174924.png" width="280">
- 
+  <img src="https://raw.githubusercontent.com/sangrambankar/Movies-master/627e86ea9241be500f79e8aa4010614aa8c30239/Screenshot_20170419-174924.png" width="280"> 
 </p>
+
 ## Features:
 - Display popular movies using themoviedb.org API
 - Detailed View of each movie with trailers, rating , cast, etc
-- Favourites movies added to your list using SQLite database.
+- Favourites movies added to your list using SQLite database
 
 ## Used libraries:
 - [RxJava](https://github.com/ReactiveX/RxAndroid) and [Retrofit](http://square.github.io/retrofit/) libraries to manage Rest Client
