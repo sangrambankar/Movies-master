@@ -9,15 +9,15 @@ MoviesDB - The application fetches movie data using themoviedb.org API.
  
 </p>
 ## Features:
-* Display popular movies using themoviedb.org API
-* Detailed View of each movie with trailers, rating , cast, etc
-* Favourites movies added to your list using SQLite database.
+- Display popular movies using themoviedb.org API
+- Detailed View of each movie with trailers, rating , cast, etc
+- Favourites movies added to your list using SQLite database.
 
 ## Used libraries:
-* [RxJava](https://github.com/ReactiveX/RxAndroid) and [Retrofit](http://square.github.io/retrofit/) libraries to manage Rest Client
-* [ButterKnife](http://jakewharton.github.io/butterknife/) library to bind views and avoid boilerplate views code
-* [EventBus](https://github.com/greenrobot/EventBus) library to send data between components and makes code simpler
-* [Picasso](http://square.github.io/picasso/) library to manage images
+- [RxJava](https://github.com/ReactiveX/RxAndroid) and [Retrofit](http://square.github.io/retrofit/) libraries to manage Rest Client
+- [ButterKnife](http://jakewharton.github.io/butterknife/) library to bind views and avoid boilerplate views code
+- [EventBus](https://github.com/greenrobot/EventBus) library to send data between components and makes code simpler
+- [Picasso](http://square.github.io/picasso/) library to manage images
 
 
 ## Design pattern
